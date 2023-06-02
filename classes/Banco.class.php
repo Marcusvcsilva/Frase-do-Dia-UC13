@@ -2,7 +2,7 @@
 
 class Banco
 {
-    private static $dbNome = 'frases';
+    private static $dbNome = 'frase_do_dia';
     private static $dbHost = 'localhost';
     private static $dbUsuario = 'root';
     private static $dbSenha = '';
